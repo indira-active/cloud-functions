@@ -1,0 +1,14 @@
+{
+  "name": "github-auto-assign-pr-reviewers",
+  "version": "1.0.0",
+  "description": "Auto assigns reviewers to new pull requests on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nathang@indiraactive.com",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^7.1.0"
+  }
+}
