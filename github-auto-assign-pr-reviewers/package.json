@@ -13,6 +13,6 @@
   "author": "nathang@indiraactive.com",
   "license": "ISC",
   "dependencies": {
-    "got": "^7.1.0"
+    "got": "^11.8.5"
   }
 }
